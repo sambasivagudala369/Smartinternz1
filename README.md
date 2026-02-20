@@ -81,8 +81,8 @@ Food-Ordering-App-MERN/
 ### 1️⃣ Clone the Repository
 
 ```
-git clone https://github.com/harsha-vardhan-reddy-07/Food-Ordering-App-MERN
-cd Food-Ordering-App-MERN
+git clone https://github.com/sambasivagudala369/Smartinternz1
+cd Smartinternz1
 ```
 
 ### 2️⃣ Install Dependencies
@@ -126,7 +126,3 @@ Login → Manage Users → Manage Orders → Manage Products
 - ⭐ Ratings & Reviews
 
 ---
-
-## 👨‍💻 Developed By
-
-SB Foods – MERN Stack Project
