@@ -32,7 +32,7 @@ It simplifies the online food ordering process and provides a seamless experienc
 ### 🛡️ Admin Dashboard
 ![Admin Dashboard](images/admin.png)
 
-> 📌 Create a folder named **images** inside your project and upload screenshots there.
+> 
 
 ---
 
