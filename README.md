@@ -21,7 +21,7 @@ It simplifies the online food ordering process and provides a seamless experienc
 ## 🖼️ Project Screenshots
 
 ### 🏠 Home Page
-![Home Page](images/home.png)
+![Home Page](orderonthego_your on-demand_food_ordering_solution/images/admin.png)
 
 ### 🔐 Login Page
 ![Login Page](images/login.png)
